@@ -6,7 +6,7 @@ import VideoList from './components/video_list';
 import VideoDetail from './components/video_detail';
 import _ from 'lodash';
 
-const API_KEY = 'AIzaSyC9B6JTb6cayI_6KVb3STQYvMTfWsjFutY';
+const API_KEY = '';
 
 class App extends Component {
     constructor(props) {
